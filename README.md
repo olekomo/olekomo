@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ole
 - 👀 I’m interested in Handball, video games and obviously programming.
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me: dc: deunitor
 
 <!---
