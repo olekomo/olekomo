@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ole
-- 👀 I’m interested in Handball, video games and programming.
+- 👀 I’m interested in handball, basketball, gym, running, video games and programming.
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me: dc: deunitor
 
